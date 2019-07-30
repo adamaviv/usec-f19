@@ -12,9 +12,22 @@
 ## Meeting Schedule
 
 * Tuesday: 12:45pm - 3:15pm
-  * Session 1 : 12:45pm - 1:55pm
-  * Break     : 1:55pm - 2:05pm
-  * Session 2 : 2:05pm - 3:15pm
-   
+
+## Course Resources
+
+* [Syllabus](syllabus.md)
+* [Schedule](schedule.md)
+* [Project](project.md)
+* [Reading Form](reading.md)
+* [Piazza](htups://piazza.com/gwu/fall2019/csci3907csci6907/home)
+
+
+## Credits and Copyright
+
+This course is based (with permission) on material provided by [Blase Ur](http://blaseur.com/) taught at the University of Chicago, which in turn is based on a course taught by [Lorrie Cranor](http://lorrie.cranor.org/) at Carnegie Mellon University. Additional material based on samples (with permission) from courses taught by [Michelle Mazurek](http://users.umiacs.umd.edu/~mmazurek/) at the University of Maryland, College Park, and [Heather Lipford](https://cci.uncc.edu/directory/heather-lipford).
+
+All teaching materials in this class, including slides, homework, assignments, practices exams and quizzes, are copyrighted. Reproduction, redistribution and other rights solely belong to the instructor. In particular, it is not permissible to upload any or part of these materials to public or private websites without the instructor's explicit consent. Violating this copyright policy will be considered an academic integrity violation.
+
+Reading materials are also copyrighted by their respective publishers and/or authors and cannot be re-posted without prior authorization from the publisher. Those materials used here for the purpose of education.
    
 
