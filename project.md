@@ -69,30 +69,44 @@ The second presentation will be your final project presentation, which will be 1
 
 ## Project Topics
 
-Below is a non-exhaustive list of topics that you can use to build a proposal. You may also propose your own topics. 
+Below is a non-exhaustive list of topics and some general research questions that you can use to build a proposal. You may also propose your own topics. Note that you will need to develop your own more specific research question and methods of investigation for your research. 
 
-* Biometrics 
-  * As more and more devices use biometrics, how does this new convenient method of authentication impact older, knowledge based methods of authentication? Do people choose weaker PINs/Passwords if they have a biometric? What are people's opinions comparing biometrics with knowledge based authentication?
-  * 
+* Biometric Authentication
+  * As more and more devices use biometrics, how does this new convenient method of authentication impact older, knowledge based methods of authentication? 
+  * Do people choose weaker PINs/Passwords if they have a biometric? What are people's opinions comparing biometrics with knowledge based authentication?
 
 * Digital Secret Sharing 
-  * If you were asked to send an password protected file, how would you do it? 
+  * Users want/need to share secrets online, such as a password or PII. If so tasked, how would they do it? Would they use email or text message or something else? 
+  * What are the threat models and security understanding of users when they share secrets online?
+  
+* Security of Signal/Whatsapp/SMS
+  * More and more users are using texting applications that provide end-to-end encryption. Do users user all these features? How do they understand the security provided?
+  * Can two users properly establish secure channels using these apps?
+  
+* Sharing of Venmo payments
+  * What kinds of social payment sharing is acceptable and how do people make these choices?
+  * What if you made people go back and look at their Venmo sharing history, what do they think? Is there anything they would want to make private? 
   
 * Voice Assistants
-  * Creepy or neccesary? How do people understand and use voice assistant technology?
+  * Creepy or necessary? How do people understand and use voice assistant technology? 
+  * Voice assistants often record conversations even when users are not aware, but you can go a look at these recordings. How do people feel about these un-aware recordings? 
   
 * Two Factor Authentication
   * It's clearly better, but what might stop users from using it? 
+  * If there is two-factor, do people end up making worse choices elsewhere because
 
 * Developer studies
-  * Bad code comes from somewhere ... what if you asked a class to complete a project
+  * Why do programmers write bad code? What if you asked a class of users to implement a security protocol, like password authentication, what goes wrong? 
   
-* Privacy Policies and Social Media
+* Privacy Policies
+  * How well do users understand privacy policies online? For example, what if users were forced to read the Facebook or Google privacy policy? What would they understand? Would it make them change their behavior?
+  * How well do users understand the GDPR and the standards? 
 
 * Password Managers
+  * Passwords are hard, password managers make it easier, but people don't use them as much as they should or use them incorrectly. Why? What are their thoughts and habits?
+  * What if we asked users who weren't previously using a password manager to set one up? What do they do? How does it affect them?
 
-* Mobile Browsers
-
-* In-App Authentication
-
-* Git security understandings
+* Mobile Devices
+  * It's smaller, more compact, and different interactions. This can affect security by changing the usability of the browser, for example, entering passwords. What kinds of interactions are affected by this interface? How can we measure them?
+  * Creating passwords on mobile devices should be harder can we measure some of the interactions that affect that? For example, keyboard layout?
+  

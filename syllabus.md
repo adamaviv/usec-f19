@@ -1,4 +1,4 @@
-# Syllabus
+# Syllabus: CSCI 3907/6907: Usable Security and Privacy
 
 ## Course Description
 
@@ -30,17 +30,16 @@ There is no required textbook for this class. However, there are suggested textb
 
 ## Grading
 
-* Project: 35%
-* Problem Sets: 25%
+* Project: 40%
+* Problem Sets: 30%
 * Readings: 5%
-* Quizzes: 5%
-* Presentations: 5%
-* Midterm: 10%
-* Final Exam: 15%
+* Quizzes: 2%
+* Presentations: 8%
+* Exams: 15%
 
 ### Project
 
-This class requires you complete a semester long research project that should produce workshop-level research results and a written report that is formatted using latex. You will be allowed to works in teams of two or three to complete the project. You cannot work alone. 
+This class requires that you complete a semester long research project that should produce workshop-level research results and a written report that is formatted using Latex. You must works in teams of at least two to complete the project. You cannot work alone. 
 
 More details of the project can be found on the [project](project.md) page. 
 
@@ -53,31 +52,29 @@ We have five problem sets in this class that will require a mixture of programmi
 Each week readings are listed as either *Required* or *Additional*. 
 
 * *All* students are required to complete the *Required Readings* 
-* CSCI 3907 must complete at least **one** more *Additional Reading* 
-* CSCI 6907 must complete at least **two** more *Additional Reading*
+* CSCI 3907 must complete at least **one** Reading Response Form for each class from the Required Readings
+* CSCI 6907 must complete at least **two** Reading Response Forms, one from the Required Readings and one more from either the Required Readings or Additional Readings.
 
-For each additional reading, you need to complete a [reading response form](reading.md), which should be typed and submitted in hard copy at the start of class. 
+To verify that you are keeping up with the readings, you need to submit[reading response form](reading.md), which should be typed and submitted in hard copy at the start of class. 
 
 If you wish to read a *different* research paper for your additional reading, you may do so with the instructor permission. 
 
 ### Quizzes
 
-At the start of most classes, to check if the required reading were complete, we will have a very short quiz. These quiz will be self graded. 
+At the start of most classes, to check if the required reading were complete, we will have a very short quiz. These quiz will be self graded and used to spur conversation. 
 
 ### Presentations
 
 Each week, we will have student presentations of the *additional* readings, or an approved reading of the student's choice. These presentations should be roughly 20 minutes in length and follow the styles of academic presentations at conferences and workshops. For each session, we will typically have 2 or 3 presentations. 
 
-* CSCI 3907 students must complete at least **two** presentation throughout the semester
-* CSCI 6907 students must complete at least **three** presentations throughout the semester
+* CSCI 3907 students must complete at least **one** presentation throughout the semester
+* CSCI 6907 students must complete at least **two** presentations throughout the semester
 
-When a student is presenting, they are not required to do a reading. 
+When a student is presenting, they are not required to do any reading response form(s). 
 
 ### Exams
 
-We will have a midterm and final exam in this class that will cover topics related to the readings and user study design. These exams will be in-class.
-
-
+We will have a two exams in the class, roughly halfway through and at the end of the term. These exams will cover topics from the readings and topics presented in class.
 
 ## Academic Integrity
 
