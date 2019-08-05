@@ -56,7 +56,7 @@ Ceremony in Signal. In proceedings of SOUPS 2018.
 
 ### Topic: Privacy
 
-### Due: Nothing
+### Due:
 
 ### Required Readings:
 * Daniel Solove. 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review 44, 2007.
@@ -83,11 +83,13 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Passwords 
 
-### Due: Nothing
+### Due:
 
 ### Required Readings:
 * 
 * 
+
+### Additional Readings:
 
 ### Presenters:
 * TBD
@@ -104,6 +106,8 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 * 
 * 
 
+### Additional Readings:
+
 ### Presenters:
 * TBD
 
@@ -118,8 +122,10 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 ### Due: Nothing
 
 ### Required Readings:
-* IRB training and guidelines, Menlo report
-* 
+* IRB Training Materials
+* Menlo report
+
+### Additional Readings:
 
 ### Presenters:
 * TBD
@@ -127,16 +133,17 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 --------------------------------------------------------
 
-## Meeting 7: Oct. 1 (Rosh Hashana)
+## Meeting 7: Oct. 1 
 
 
-### Topic: Midterm
+### Topic: Exam 1
 
 ### Due: Nothing
 
 ### Required Readings:
 * (none)
 
+### Additional Readings:
 
 ### Presenters:
 * TBD
@@ -150,7 +157,8 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 ### Due: Group Project Proposals
 
 ### Required Readings:
-* Android Permissions
+
+### Additional Readings:
 
 
 ### Presenters:
@@ -165,7 +173,8 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 ### Due: 
 
 ### Required Readings:
-* Android Permissions
+
+### Additional Readings:
 
 ### Presenters:
 * TBD
@@ -180,12 +189,13 @@ No Class
 
 ## Meeting 10: Oct. 29
 
-### Topic:
+### Topic: Developer Studies
 
 ### Due: 
 
 ### Required Readings:
-* 
+
+### Additional Readings:
 
 ### Presenters:
 * TBD
@@ -215,7 +225,8 @@ No Class
 ### Due: 
 
 ### Required Readings:
-* 
+
+### Additional Readings:
 
 ### Presenters:
 * Project Lightening Talks
@@ -229,7 +240,8 @@ No Class
 ### Due: 
 
 ### Required Readings:
-* 
+
+### Additional Readings:
 
 ### Presenters:
 * TBD
@@ -238,12 +250,13 @@ No Class
 
 ## Meeting 14: Nov. 26
 
-### Topic: Final Exam
+### Topic: Exam 2
 
 ### Due: Nothing
 
 ### Required Readings:
 * (none)
+
 
 ### Presenters:
 * (none)
