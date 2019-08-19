@@ -19,6 +19,7 @@
 * [Schedule](schedule.md)
 * [Project](project.md)
 * [Reading Form](reading.md)
+* [Github Clssroom](https://classroom.github.com/classrooms/54280734-csci-3907-6907-usable-security-and-privacy-fall-2019)
 * [Piazza](htups://piazza.com/gwu/fall2019/csci3907csci6907/home)
 
 
