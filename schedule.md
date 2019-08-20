@@ -55,7 +55,7 @@ Ceremony in Signal](https://www.usenix.org/system/files/conference/soups2018/sou
 
 --------------------------------------------------------
 
-## Meeting 3: Sep. 9
+## Meeting 3: Sep. 10
 
 ### Topic: Privacy
 
@@ -83,7 +83,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 --------------------------------------------------------
 
-## Meeting 4: Sep. 10
+## Meeting 4: Sep. 17
 
 ### Topic: Passwords 
 
@@ -100,7 +100,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 --------------------------------------------------------
 
-## Meeting 5: Sep. 17
+## Meeting 5: Sep. 24
 
 ### Topic: Mobile Authentication
 
@@ -118,8 +118,23 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 --------------------------------------------------------
 
-## Meeting 6: Sep. 24
+## Meeting 6: Oct 1.
 
+### Topic: **NO CLASS** 
+
+### Due: Nothing
+
+### Required Readings:
+* Based on the previous readings, find (two) related paper or topic published at a top conference/workshop (SOUPS, CHI, NDSS, S&P, CCS, USENIX Sec', USEC) and submit a reading response form for each. (**Due on Thursday, Oct. 3rd**)
+
+### Additional Readings:
+
+### Presenters:
+* TBD
+
+--------------------------------------------------------
+
+## Meeting 7: Oct. 8
 
 ### Topic: Phishing and Ethics
 
@@ -137,23 +152,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 --------------------------------------------------------
 
-## Meeting 7: Oct. 1 
-
-### Topic: **NO CLASS** 
-
-### Due: Nothing
-
-### Required Readings:
-* Based on the previous readings, find (two) related paper or topic published at a top conference/workshop (SOUPS, CHI, NDSS, S&P, CCS, USENIX Sec', USEC) and submit a reading response form for each. (**Due on Thursday, Oct. 3rd**)
-
-### Additional Readings:
-
-### Presenters:
-* TBD
-
---------------------------------------------------------
-
-## Meeting 8: Oct. 8 
+## Meeting 8: Oct. 15 
 
 ### Topic: Security Warnings and Permission
 
@@ -167,9 +166,16 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 ### Presenters:
 * TBD
 
+
 --------------------------------------------------------
 
-## Meeting 9: Oct. 15
+## Fall Break: Oct 21,22
+
+No Class
+
+--------------------------------------------------------
+
+## Meeting 9: Oct. 29
 
 ### Topic: Web Security 
 
@@ -184,13 +190,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 --------------------------------------------------------
 
-## Fall Break: Oct 21,22
-
-No Class
-
---------------------------------------------------------
-
-## Meeting 10: Oct. 29
+## Meeting 10: Nov. 5
 
 ### Topic: Online Notifications and Privacy and GDPR
 
@@ -205,7 +205,7 @@ No Class
 
 --------------------------------------------------------
 
-## Meeting 11: Nov. 5
+## Meeting 11: Nov. 12
 
 
 ### Topic: Developer Studies
@@ -220,10 +220,10 @@ No Class
 
 --------------------------------------------------------
 
-## Meeting 12: Nov. 12
+## Meeting 12: Nov. 19
 
 
-### Topic: Smart Home and IoT 
+### Topic: Underrepresented and Victimized Groups 
 
 ### Due: 
 
@@ -236,9 +236,9 @@ No Class
 
 --------------------------------------------------------
 
-## Meeting 13: Nov. 19
+## Meeting 13: Nov. 26
 
-### Topic: Underrepresented Groups 
+### Topic: Potpourri/Misc: Smart Home, Expert vs. Non-Expert Advice, Digital Advocacy, Media Impacts
 
 ### Due: 
 
@@ -251,22 +251,7 @@ No Class
 
 --------------------------------------------------------
 
-## Meeting 14: Nov. 26
-
-### Topic: Expert vs. Non Expert Advice and Advocacy
-
-### Due: Nothing
-
-### Required Readings:
-* 
-
-
-### Presenters:
-* 
-
---------------------------------------------------------
-
-## Meeting 15: Dec. 3
+## Meeting 14: Dec. 3
 
 ### Topic: Project Presentations
 
