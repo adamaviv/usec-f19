@@ -12,11 +12,11 @@ for the latest information.
 ### Due: Nothing
 
 ### Required Readings:
-* Zurko, Mary Ellen, and Richard T. Simon. "User-centered security." NSPW. Vol. 96. 1996.
-* Anne Adams and Martina Angela Sasse. 1999. Users are not the enemy. Commun. ACM 42, 12 (December 1999), 40-46. 
+* [Zurko, Mary Ellen, and Richard T. Simon. "User-centered security." NSPW. Vol. 96. 1996.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.7754&rep=rep1&type=pdf)
+* [Anne Adams and Martina Angela Sasse. 1999. Users are not the enemy. Commun. ACM 42, 12 (December 1999), 40-46.](http://discovery.ucl.ac.uk/20247/2/CACM%20FINAL.pdf)
 
 ### Additional Readings:
-* Peter Mayer, Nina Gerber, Benjamin Reinheimer, Philipp Rack, Kristoffer Braun, and Melanie Volkamer. 2019. I (Don't) See What You Typed There! Shoulder-surfing Resistant Password Entry on Gamepads. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).
+* [Peter Mayer, Nina Gerber, Benjamin Reinheimer, Philipp Rack, Kristoffer Braun, and Melanie Volkamer. 2019. I (Don't) See What You Typed There! Shoulder-surfing Resistant Password Entry on Gamepads. In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).](https://dl.acm.org/citation.cfm?id=3300779) (should be accessible via GW's campus internet connection)
 
 ### Presenters:
 * Peter Mayer (KIT) -- Guest Speaker 
@@ -30,11 +30,11 @@ for the latest information.
 ### Due: Nothing
 
 ### Required Readings:
-* James Mickens. This World of Ours. USENIX ;login:, January 2014.
+* [James Mickens. This World of Ours. USENIX ;login:, January 2014.](http://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf) (no reading report necessary for this one, just read it and enjoy)
 
-* Alma Whitten and J.D. Tygar. Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0. In Proceedings of USENIX Security 1999 
+* [Alma Whitten and J.D. Tygar. Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0. In Proceedings of USENIX Security 1999](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.40.9279)
 
-* Ruba Abu-Salma, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of IEEE SP 2017.
+* [Ruba Abu-Salma, M. Angela Sasse, Joseph Bonneau, Anastasia Danilova, Alena Naiakshina, Matthew Smith. Obstacles to the Adoption of Secure Communication Tools. In Proceedings of IEEE SP 2017.](http://discovery.ucl.ac.uk/1560502/1/ASBDNS17-IEEESP-secure_messaging_obstacles.pdf)
 
 
 ### Additional Readings:

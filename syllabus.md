@@ -26,7 +26,8 @@ There is no required textbook for this class. However, there are suggested textb
 
 * **Research Methods in Human-Computer Interaction** by Jonathan Lazar, Jinjuan Heidi Feng, Harry Hochheiser. 
 * **README FIRST for a User's Guide to Qualitative Methods** by Lyn Richards and Janice M. Morse
-
+* **Usable Security: History, Themes, and Challenges
+Synthesis Lectures on Information Security, Privacy, and Trust**. Simson Garfinkel and Heather Lipford. ([pdf](https://www.morganclaypool.com/doi/abs/10.2200/S00594ED1V01Y201408SPT011) available for download when connected to GW campus network) 
 
 ## Grading
 
