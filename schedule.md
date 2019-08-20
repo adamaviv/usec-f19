@@ -139,13 +139,12 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ## Meeting 7: Oct. 1 
 
-
-### Topic: Exam 1
+### Topic: **NO CLASS** 
 
 ### Due: Nothing
 
 ### Required Readings:
-* (none)
+* Based on the previous readings, find (two) related paper or topic published at a top conference/workshop (SOUPS, CHI, NDSS, S&P, CCS, USENIX Sec', USEC) and submit a reading response form for each. (**Due on Thursday, Oct. 3rd**)
 
 ### Additional Readings:
 
@@ -193,7 +192,7 @@ No Class
 
 ## Meeting 10: Oct. 29
 
-### Topic: Web Notifications / GDPR
+### Topic: Online Notifications and Privacy and GDPR
 
 ### Due: 
 
@@ -224,7 +223,7 @@ No Class
 ## Meeting 12: Nov. 12
 
 
-### Topic:
+### Topic: Smart Home and IoT 
 
 ### Due: 
 
@@ -239,7 +238,7 @@ No Class
 
 ## Meeting 13: Nov. 19
 
-### Topic:
+### Topic: Underrepresented Groups 
 
 ### Due: 
 
@@ -254,16 +253,16 @@ No Class
 
 ## Meeting 14: Nov. 26
 
-### Topic: Exam 2
+### Topic: Expert vs. Non Expert Advice and Advocacy
 
 ### Due: Nothing
 
 ### Required Readings:
-* (none)
+* 
 
 
 ### Presenters:
-* (none)
+* 
 
 --------------------------------------------------------
 
