@@ -28,7 +28,7 @@ Following submission of your proposal, your group will schedule meetings with th
 
 ## Ethics Review
 
-As part of your project, you will be required to complete an IRB application. As this project is for the purposes of education, not generalizable knowledge, we do not need IRB approval. However, we expect you to uphold the same standards as an IRB approved research. This includes:
+As part of your project, you will be required to complete an [IRB application](https://docs.google.com/document/d/1bvEF7X5oFGrp-qirZMLADJPm24OkzHmb4RnPlhc-Vpo/edit?usp=sharing) based on the IRB submission forms at GW. As this project is for the purposes of education, not generalizable knowledge, we do not need IRB approval. However, we expect you to uphold the same standards as an IRB approved research. This includes:
 
 1. Treating all participants ethically and fairly
 2. Providing confidentiality linking personal information of participants to data.
@@ -51,7 +51,7 @@ The second presentation will be your final project presentation, which will be 1
 * Sept. 8: Preferences are due
 * Sept. 17: Project Proposals are due
 * Sept. 23-25: Proposal Feedback meetings (to be scheduled with the instructor)
-* Oct. 7: Ethics Documents are due
+* Oct. 7: [Ethics Documents](https://docs.google.com/document/d/1bvEF7X5oFGrp-qirZMLADJPm24OkzHmb4RnPlhc-Vpo/edit?usp=sharing) are due
 * Nov. 4: Project Status Updates due
 * Nov. 5-9: Status update meetings (to be schedule with the instructor)
 * Nov. 12: Lightning Talks (in class) -- present 5 minute descriptions of your work 
