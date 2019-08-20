@@ -31,12 +31,11 @@ Synthesis Lectures on Information Security, Privacy, and Trust**. Simson Garfink
 
 ## Grading
 
-* Project: 40%
+* Project: 55%
 * Problem Sets: 30%
 * Readings: 5%
-* Quizzes: 2%
-* Presentations: 8%
-* Exams: 15%
+* Presentations: 10%
+
 
 ### Project
 
@@ -46,7 +45,7 @@ More details of the project can be found on the [project](project.md) page.
 
 ### Problem Sets
 
-We have five problem sets in this class that will require a mixture of programming, writing, and data analysis. Specific directions in the problem sets will be provided. All written work should be submitted typed, and all programming assignments should be submitted via git. 
+We have five problem sets in this class that will require a mixture of programming, writing, and data analysis. Specific directions in the problem sets will be provided. All written work should be submitted typed, and all programming assignments should be submitted via git classroom. 
 
 ### Readings
 
@@ -56,13 +55,9 @@ Each week readings are listed as either *Required* or *Additional*.
 * CSCI 3907 must complete at least **one** Reading Response Form for each class from the Required Readings
 * CSCI 6907 must complete at least **two** Reading Response Forms, one from the Required Readings and one more from either the Required Readings or Additional Readings.
 
-To verify that you are keeping up with the readings, you need to submit[reading response form](reading.md), which should be typed and submitted in hard copy at the start of class. 
+To verify that you are keeping up with the readings, you need to submit[reading response form](reading.md), which should be typed and submitted **in hard copy at the start of class**. 
 
 If you wish to read a *different* research paper for your additional reading, you may do so with the instructor permission. 
-
-### Quizzes
-
-At the start of most classes, to check if the required reading were complete, we will have a very short quiz. These quiz will be self graded and used to spur conversation. 
 
 ### Presentations
 
@@ -72,10 +67,6 @@ Each week, we will have student presentations of the *additional* readings, or a
 * CSCI 6907 students must complete at least **two** presentations throughout the semester
 
 When a student is presenting, they are not required to do any reading response form(s). 
-
-### Exams
-
-We will have a two exams in the class, roughly halfway through and at the end of the term. These exams will cover topics from the readings and topics presented in class.
 
 ## Academic Integrity
 

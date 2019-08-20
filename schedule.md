@@ -62,19 +62,20 @@ Ceremony in Signal](https://www.usenix.org/system/files/conference/soups2018/sou
 ### Due:
 
 ### Required Readings:
-* Daniel Solove. 'I've Got Nothing to Hide' and Other Misunderstandings of Privacy. San Diego Law Review 44, 2007.
 
-* Nithya Sambasivan, Garen Checkley, Amna Batool, Nova Ahmed, David Nemer, Laura Sanely Gaytán-Lugo, Tara Matthews, Sunny Consolvo, Elizabeth Churchill. "Privacy is not for me, it's for those rich women": Performative Privacy Practices on Mobile Phones by Women in South Asia. In Proceedings of SOUPS 2018.
+* Daniel Solove. ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565). San Diego Law Review 44, 2007. 
 
-* Allison Woodruff, Vasyl Pihur, Alessandro Acquisti, Sunny Consolvo, Lauren Schmidt, Laura Brandimarte. Would a Privacy Fundamentalist Sell Their DNA for $1000... If Nothing Bad Happened Thereafter? A Study of the Westin Categories, Behavioral Intentions, and Consequences. In Proceedings of SOUPS 2014.
+* Nithya Sambasivan, Garen Checkley, Amna Batool, Nova Ahmed, David Nemer, Laura Sanely Gaytán-Lugo, Tara Matthews, Sunny Consolvo, Elizabeth Churchill. ["Privacy is not for me, it's for those rich women": Performative Privacy Practices on Mobile Phones by Women in South Asia](https://www.usenix.org/system/files/conference/soups2018/soups2018-sambasivan.pdf). In Proceedings of SOUPS 2018.
+
+* Allison Woodruff, Vasyl Pihur, Alessandro Acquisti, Sunny Consolvo, Lauren Schmidt, Laura Brandimarte. [Would a Privacy Fundamentalist Sell Their DNA for $1000... If Nothing Bad Happened Thereafter? A Study of the Westin Categories, Behavioral Intentions, and Consequences.](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-woodruff.pdf) In Proceedings of SOUPS 2014.
 
 ### Additional Readings:
 
-* Alessandro Acquisti, Laura Brandimarte, George Loewenstein. Privacy and human behavior in the age of information. Science. Vol. 347, Issue 6221. January 2015.
+* Alessandro Acquisti, Laura Brandimarte, George Loewenstein. [Privacy and human behavior in the age of information](https://science.sciencemag.org/content/sci/347/6221/509.full.pdf). Science. Vol. 347, Issue 6221. January 2015.
 
 * Pardis Emami-Naeini, Henry Dixon, Yuvraj Agarwal, and Lorrie
-Faith Cranor. 2019. Exploring How Privacy and Security Factor
-into IoT Device Purchase Behavior. In CHI Conference on Human
+Faith Cranor. 2019. [Exploring How Privacy and Security Factor
+into IoT Device Purchase Behavior.](https://www.cs.cmu.edu/~pemamina/publication/CHI'19/CHI19.pdf) In CHI Conference on Human
 Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Presenters:
@@ -192,7 +193,7 @@ No Class
 
 ## Meeting 10: Oct. 29
 
-### Topic: Developer Studies
+### Topic: Web Notifications / GDPR
 
 ### Due: 
 
@@ -208,7 +209,7 @@ No Class
 ## Meeting 11: Nov. 5
 
 
-### Topic:
+### Topic: Developer Studies
 
 ### Due: 
 
