@@ -30,7 +30,7 @@ for the latest information.
 ### Due: Nothing
 
 ### Required Readings:
-* James Mickens. [This World of Ours](http://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf). USENIX ;login:, January 2014. (no reading report necessary for this one, just read it and enjoy)
+* James Mickens. [This World of Ours](http://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf). USENIX ;login:, January 2014. <br> (*no reading report necessary for this one, just read it and enjoy*)
 
 * Alma Whitten and J.D. Tygar. [Why Johnny Can't Encrypt: A Usability Evaluation of PGP 5.0](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.40.9279). In Proceedings of USENIX Security 1999]
 
