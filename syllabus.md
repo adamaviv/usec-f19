@@ -47,6 +47,8 @@ More details of the project can be found on the [project](project.md) page.
 
 We have five problem sets in this class that will require a mixture of programming, writing, and data analysis. Specific directions in the problem sets will be provided. All written work should be submitted typed, and all programming assignments should be submitted via git classroom. 
 
+Submission of problem sets will occur via our class's [GitHub Classroom](https://classroom.github.com/classrooms/54329729-csci-3907-6907-usable-security-and-privacy-fall-2019)
+
 ### Readings
 
 Each week readings are listed as either *Required* or *Additional*. 
@@ -55,9 +57,7 @@ Each week readings are listed as either *Required* or *Additional*.
 * CSCI 3907 must complete at least **one** Reading Response Form for each class from the Required Readings
 * CSCI 6907 must complete at least **two** Reading Response Forms, one from the Required Readings and one more from either the Required Readings or Additional Readings.
 
-To verify that you are keeping up with the readings, you need to submit[reading response form](reading.md), which should be typed and submitted **in hard copy at the start of class**. 
-
-If you wish to read a *different* research paper for your additional reading, you may do so with the instructor permission. 
+You will submit your reading responses on our class's [HotCRP](https://hotcrp.adamaviv.com/usecf19/) instance by submitting a review for your chosen paper(s). These reviews will be visible to the whole class. The reviewing form will provide the required details. 
 
 ### Presentations
 
