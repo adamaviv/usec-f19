@@ -1,10 +1,6 @@
 # Problem Set 1
 
 ** Due via Github classroom **
-* Problem 1 (github classroom link)
-* Problem 2 (github classroom link)
-* Problem 3 (github classroom link)
-
 
 ## Problem 1 (35 points)
 
@@ -19,6 +15,7 @@ You should turn in four paragraphs describing:
 
 If you believe any of those paragraphs is not applicable (e.g., the tool has no usability flaws not described in the Johnny paper), instead briefly explain why you believe it is not applicable.
 
+In the github classroom assignment, you can write this using markdown in the README.md file and submit that. 
 
 ## Problem 2 (15 points) 
 
@@ -49,3 +46,25 @@ When printed, the report should be about 2-4 pages, plus the appendix. You shoul
 
 Only need to submit one report per group, but be sure to include everyone's name. 
  
+## Problem 4 (10 points, and you MUST complete this to pass this class)
+
+Complete the online Human Subjects Protection Training Requirement by following the instructions at the [GW Office of Human Research](https://humanresearch.gwu.edu/citi-courses-accounts-info). You should complete the **Social & Behavioral Research** course. Whence complete, include a copy of your certificate in your submission, as well as the certificate link. 
+
+**Note that you do not have to pay for this course if you follow the instructions at the link above. GW pays for a school wide license.**
+
+## Problem 5 (5 points, and you are strongly recommended to complete this)
+
+Request access to the Qualtrics Site License for SEAS. Information can be found on the [GW SEAS Computing Facility help page](https://seascf.seas.gwu.edu/qualtrics).
+
+Then create a simple survey with the following questions, and then publish the survey and take it yourself. The questions are:
+
+* What topics in this course most excite you?
+
+* What topic in this course least excites you?
+
+* Describe your earliest experience with using a computer? 
+
+To prove you've done the task, include a link to the published survey in your submission as well as a pdf of the results as presented by Qualtrics. 
+
+
+

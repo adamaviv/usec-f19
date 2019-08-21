@@ -9,7 +9,8 @@ for the latest information.
 
 ### Topic: Introduction to Usable Security and Privacy
 
-### Due: Nothing
+### Due:
+* Nothing
 
 ### Required Readings:
 * Zurko, Mary Ellen, and Richard T. Simon. [User-centered security](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.136.7754&rep=rep1&type=pdf). NSPW. Vol. 96. 1996.
@@ -27,7 +28,8 @@ for the latest information.
 
 ### Topic: Usable Encryption
 
-### Due: Nothing
+### Due: 
+* [Reading Reports (on HotCRP)](https://hotcrp.adamaviv.com/usecf19/search?q=%23meeting-2&t=s)
 
 ### Required Readings:
 * James Mickens. [This World of Ours](http://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf). USENIX ;login:, January 2014. <br> (*no reading report necessary for this one, just read it and enjoy*)
@@ -60,6 +62,8 @@ Ceremony in Signal](https://www.usenix.org/system/files/conference/soups2018/sou
 ### Topic: Privacy
 
 ### Due:
+* Reading Reports (in class)
+* Problem Set 1 (due Wed. Sept 11th at 1159pm)
 
 ### Required Readings:
 
