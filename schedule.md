@@ -66,7 +66,7 @@ Ceremony in Signal](https://www.usenix.org/system/files/conference/soups2018/sou
 
 ### Required Readings:
 
-* Daniel Solove. ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565). San Diego Law Review 44, 2007. 
+* Daniel Solove. ['I've Got Nothing to Hide' and Other Misunderstandings of Privacy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565). San Diego Law Review 44, 2007. (*no reading report for this one, but please read it*)
 
 * Nithya Sambasivan, Garen Checkley, Amna Batool, Nova Ahmed, David Nemer, Laura Sanely Gaytán-Lugo, Tara Matthews, Sunny Consolvo, Elizabeth Churchill. ["Privacy is not for me, it's for those rich women": Performative Privacy Practices on Mobile Phones by Women in South Asia](https://www.usenix.org/system/files/conference/soups2018/soups2018-sambasivan.pdf). In Proceedings of SOUPS 2018.
 
