@@ -18,7 +18,6 @@
 * [Syllabus](syllabus.md)
 * [Schedule](schedule.md)
 * [Project](project.md)
-* [Github Clssroom](https://classroom.github.com/classrooms/54329729-csci-3907-6907-usable-security-and-privacy-fall-2019)
 * [Slack](gwusec.slack.com) (email instructor for invite)
 * [HotCRP](https://hotcrp.adamaviv.com/usecf19/)
 
