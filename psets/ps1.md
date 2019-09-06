@@ -56,11 +56,15 @@ Only need to submit one report per group, but be sure to include everyone's name
  
 ## Problem 4 (10 points, and you MUST complete this to pass this class)
 
+Github Classroom Link: https://classroom.github.com/a/W-U0a536
+
 Complete the online Human Subjects Protection Training Requirement by following the instructions at the [GW Office of Human Research](https://humanresearch.gwu.edu/citi-courses-accounts-info). You should complete the **Social & Behavioral Research** course. Whence complete, include a copy of your certificate in your submission call `certificate.pdf`
 
 **Note that you do not have to pay for this course if you follow the instructions at the link above. GW pays for a school wide license.**
 
 ## Problem 5 (5 points, and you are strongly recommended to complete this)
+
+Github Classroom Link: https://classroom.github.com/a/Joll3gcD
 
 Request access to the Qualtrics Site License for SEAS. Information can be found on the [GW SEAS Computing Facility help page](https://seascf.seas.gwu.edu/qualtrics).
 
