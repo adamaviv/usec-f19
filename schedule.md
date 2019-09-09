@@ -53,7 +53,7 @@ Ceremony in Signal](https://www.usenix.org/system/files/conference/soups2018/sou
 
 
 ### Presenters:
-* TBD
+* Reschedule ...
 
 --------------------------------------------------------
 
@@ -82,7 +82,7 @@ into IoT Device Purchase Behavior.](https://www.cs.cmu.edu/~pemamina/publication
 Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Presenters:
-* TBD
+* James Levy: Acquisti et. al.
 
 --------------------------------------------------------
 
@@ -90,13 +90,23 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Passwords 
 
-### Due:
+### Due: Preferences for Project
 
 ### Required Readings:
-* 
-* 
+
+* Joseph Bonneau. [The Science of Guessing: Analyzing an Anonymized Corpus of 70 Million Passwords](http://www.jbonneau.com/doc/B12-IEEESP-analyzing_70M_anonymized_passwords.pdf). In Proceedings of IEEE SP 2012.
+
+* Michelle L. Mazurek, Saranga Komanduri, Timothy Vidas, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor, Patrick Gage Kelley, Richard Shay, Blase Ur. [Measuring Password Guessability for an Entire University](http://www.ece.cmu.edu/~lbauer/papers/2013/ccs2013-real-passwords.pdf). In Proceedings of CCS 2013.
+
+* Blase Ur, Fumiko Noma, Jonathan Bees, Sean M. Segreti, Richard Shay, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor. ["I Added '!' at the End to Make It Secure": Observing Password Creation in the Lab](https://www.blaseur.com/papers/soups15-paper-ur.pdf). In the proceedings of SOUPS 2015. 
 
 ### Additional Readings:
+
+* Blase Ur, Jonathan Bees, Sean M. Segreti, Lujo Bauer, Nicolas Christin, Lorrie Faith Cranor. [Do Users' Perceptions of Password Security Match Reality?](http://www.blaseur.com/papers/chi16-pwperceptions.pdf) In Proceedings of CHI 2016.
+
+* Elizabeth Stobert and Robert Biddle. [The Password Life Cycle: User Behaviour in Managing Passwords](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-stobert.pdf). In Proceedings of SOUPS 2014.
+
+* Rick Wash, Emilee Rader, Ruthie Berman, and Zac Wellmer. [Understanding Password Choices: How Frequently Entered Passwords are Re-used Across Websites](https://rickwash.com/papers/security-passwords-field-study.pdf). Proceedings of the SOUPS 2016.
 
 ### Presenters:
 * TBD
