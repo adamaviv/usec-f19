@@ -117,13 +117,23 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Mobile Authentication
 
-### Due: Nothing
+### Due: Problem Set 2 (Wed 25 Sept. at 1159pm)
 
 ### Required Readings:
-* 
-* 
+
+* Bonneau, Joseph, Sören Preibusch, and Ross Anderson. [A birthday present every eleven wallets? The security of customer-chosen banking PINs](https://fc12.ifca.ai/pre-proceedings/paper_33.pdf). In proceedings of FC 2012.
+
+* Sebastian Uellenbeck, Markus Dürmuth, Christopher Wolf, and Thorsten Holz. 2013. [Quantifying the security of graphical passwords: the case of android unlock patterns](https://www.mobsec.ruhr-uni-bochum.de/media/emma/veroeffentlichungen/2013/09/26/patternLogin-CCS13.pdf). In Proceedings of the CCS 2013.
+
+* Adam J. Aviv, Devon Budzitowski, and Ravi Kuber. 2015. [Is Bigger Better? Comparing User-Generated Passwords on 3x3 vs. 4x4 Grid Sizes for Android's Pattern Unlock](https://adamaviv.com/static/www/papers/aviv-acsac15.pdf). In Proceedings of ACSAC 2015.
 
 ### Additional Readings:
+
+* Serge Egelman, Sakshi Jain, Rebecca S. Portnoff, Kerwell Liao, Sunny Consolvo, and David Wagner. 2014. [Are You Ready to Lock? Understanding User Motivations for Smartphone Locking Behaviors](https://www.icsi.berkeley.edu/pubs/networking/readytolock14.pdf). In Proceedings of CCS 2014.
+
+* Marian Harbach, Emanuel von Zezschwitz, Andreas Fichtner,Alexander De Luca, Matthew Smith. [It’s a hard lock life: A field study of smartphone (un) locking behavior and risk perception.](https://www.usenix.org/system/files/conference/soups2014/soups14-paper-harbach.pdf). In proceedings of SOUPS 2014.
+
+* Yusuf Albayram, Mohammad Maifi Hasan Khan, Theodore Jensen, and Nhan Nguyen. [“...better to use a lock screen than to worry about saving a few seconds of time”: Effect of Fear Appeal in the Context of Smartphone Locking Behavior](https://www.usenix.org/system/files/conference/soups2017/soups2017-albayram.pdf). In proceedings of SOUPS 2017. 
 
 ### Presenters:
 * TBD
