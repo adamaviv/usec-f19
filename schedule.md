@@ -90,7 +90,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Passwords 
 
-### Due: Preferences for Project
+### Due: Preferences for Project (we can also schedule meetings to discuss)
 
 ### Required Readings:
 
@@ -117,7 +117,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Mobile Authentication
 
-### Due: Problem Set 2 (Wed 25 Sept. at 1159pm)
+### Due: Project Proposals 
 
 ### Required Readings:
 
@@ -145,7 +145,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: **NO CLASS** 
 
-### Due: Nothing
+### Due: Meetings to discuss project
 
 ### Required Readings:
 * Based on the previous readings, find (two) related paper or topic published at a top conference/workshop (SOUPS, CHI, NDSS, S&P, CCS, USENIX Sec', USEC) and submit a reading response form for each. (**Due on Thursday, Oct. 3rd**)
@@ -161,7 +161,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Phishing and Ethics
 
-### Due: Nothing
+### Due: Ethics Documents for Project 
 
 ### Required Readings:
 * IRB Training Materials
@@ -179,7 +179,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Security Warnings and Permission
 
-### Due: Group Project Proposals
+### Due: Problem Set 2
 
 ### Required Readings:
 
@@ -202,7 +202,7 @@ No Class
 
 ### Topic: Web Security 
 
-### Due: 
+### Due: Problem set 3  and Ethics Application 
 
 ### Required Readings:
 
@@ -217,7 +217,7 @@ No Class
 
 ### Topic: Online Notifications and Privacy and GDPR
 
-### Due: 
+### Due: Project Status Updates
 
 ### Required Readings:
 
@@ -233,13 +233,13 @@ No Class
 
 ### Topic: Developer Studies
 
-### Due: 
+### Due: Problem Set 4
 
 ### Required Readings:
 * 
 
 ### Presenters:
-* TBD
+* Lightning Talks
 
 --------------------------------------------------------
 
@@ -248,7 +248,7 @@ No Class
 
 ### Topic: Underrepresented and Victimized Groups 
 
-### Due: 
+### Due: None
 
 ### Required Readings:
 
@@ -263,7 +263,7 @@ No Class
 
 ### Topic: Potpourri/Misc: Smart Home, Expert vs. Non-Expert Advice, Digital Advocacy, Media Impacts
 
-### Due: 
+### Due: Problem Set 5
 
 ### Required Readings:
 
