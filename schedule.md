@@ -109,7 +109,8 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 * Rick Wash, Emilee Rader, Ruthie Berman, and Zac Wellmer. [Understanding Password Choices: How Frequently Entered Passwords are Re-used Across Websites](https://rickwash.com/papers/security-passwords-field-study.pdf). Proceedings of the SOUPS 2016.
 
 ### Presenters:
-* TBD
+* Malley: Wash et al.
+* Kuchipudi: Stobert et al.
 
 --------------------------------------------------------
 
