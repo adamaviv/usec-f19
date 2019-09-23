@@ -118,7 +118,8 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Mobile Authentication
 
-### Due: Project Proposals 
+### Due: Project Proposals (Sunday 28 Oct. via Github Classroom)
+* https://classroom.github.com/a/SrJTjCzK
 
 ### Required Readings:
 
@@ -149,7 +150,10 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 ### Due: Meetings to discuss project
 
 ### Required Readings:
-* Based on the previous readings, find (two) related paper or topic published at a top conference/workshop (SOUPS, CHI, NDSS, S&P, CCS, USENIX Sec', USEC) and submit a reading response form for each. (**Due on Thursday, Oct. 3rd**)
+* Select **TWO** papers that are relevant to your project to read
+* Papers must come from a top conference/workshop (SOUPS, CHI, NDSS, S&P, CCS, USENIX Sec', USEC) and submit a reading response form for each. 
+* Submit papers to instruct by **Thursday, Oct. 3rd** to be uploaded to HotCRP
+* You only need to read the papers you read for your project
 
 ### Additional Readings:
 
@@ -160,9 +164,10 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ## Meeting 7: Oct. 8
 
-### Topic: Phishing and Ethics
+### Topic: Phishing and Ethics (Sunday 12 Oct. via Github Classroom)
+* https://classroom.github.com/a/ZDm37Sv2
 
-### Due: Ethics Documents for Project 
+### Due: Ethics Documents for Project (Sunday 
 
 ### Required Readings:
 * IRB Training Materials
