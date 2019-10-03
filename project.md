@@ -48,15 +48,15 @@ The second presentation will be your final project presentation, which will be 1
 
 ## Project Schedule
 
-* Sept. 17: Preferences are due
-* Sept. 25: Project Proposals are due
-* Sept. 26-27: Proposal Feedback meetings (to be scheduled with the instructor)
-* Oct. 13: [Ethics Documents](https://docs.google.com/document/d/1bvEF7X5oFGrp-qirZMLADJPm24OkzHmb4RnPlhc-Vpo/edit?usp=sharing) are due
-* Nov. 4: Project Status Updates due
-* Nov. 5-9: Status update meetings (to be schedule with the instructor)
-* Nov. 12: Lightning Talks (in class) -- present 5 minute descriptions of your work 
-* Dec. 3rd: Project Presentations
-* Dec. 8th: Final Project Reports
+* 9/25: Preferences are due
+* 9/29: Project Proposals are due
+* 10/2-3:Proposal Feedback meetings (to be scheduled with the instructor)
+* 10/6: Ethics Documents  (see slack)
+* 11/5: Project Status Updates due
+* 11/6-8: Status update meetings (to be schedule with the instructor)
+* 11/12: Lightning Talks (in class) -- present 5 minute descriptions of your work 
+* 12/3: Project Presentations
+* 12/8: Final Project Reports
 
 
 ## Grading
