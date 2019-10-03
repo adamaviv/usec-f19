@@ -164,17 +164,26 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ## Meeting 7: Oct. 8
 
-### Topic: Phishing and Ethics (Sunday 12 Oct. via Github Classroom)
-* https://classroom.github.com/a/ZDm37Sv2
+### Topic: Phishing and Ethics 
 
-### Due: Ethics Documents for Project (Sunday 
+### Due: Ethics Documents for Project (Sunday 10/6)
+* https://classroom.github.com/a/ZDm37Sv2
+* See Slack for document
 
 ### Required Readings:
-* IRB Training Materials
-* Menlo report
+* [The Menlo Report:Ethical Principles Guiding Information and
+Communication Technology Research](https://www.caida.org/publications/papers/2012/menlo_report_actual_formatted/menlo_report_actual_formatted.pdf). Departmnet of Homeland Security. 2012. (**No need to write a report, but MUST read**)
+* Rick Wash and Molly M. Cooper. [Who Provides Phishing Training? Facts, Stories, and People Like Me](https://bitlab.cas.msu.edu/papers/phishing-stories.pdf). In Proceedings of CHI 2018.
+* Roy A. Maxion. [Making Experiments Dependable](http://www.cs.cmu.edu/~maxion/pubs/Maxion12.pdf). In Dependable and Historic Computing, Lecture Notes in Computer Science Volume 6875, pp. 344-357, 2011.
+* Kanich, C., Kreibich, C., Levchenko, K., Enright, B., Voelker, G. M., Paxson, V., & Savage, S. [Spamalytics: An empirical analysis of spam marketing conversion](http://www2.cs.uic.edu/~ckanich/papers/spamalytics.pdf). In Proceedings of the CCS. 2008.
 
 ### Additional Readings:
-
+* Amber van der Heijden and Luca Allodi. [Cognitive Triaging of Phishing Attacks](https://www.usenix.org/conference/usenixsecurity19/presentation/van-der-heijden). In proceedings of USENIX Sec' 2019.
+* Huahong Tu, Adam Doupé, Ziming Zhao,Gail-Joon Ahn. [Users Really Do Answer Telephone Scams](https://www.usenix.org/system/files/sec19-tu.pdf). In proceedings of USENIX Sec' 2019.
+* Melanie Volkamer, Andreas Gutmann, Karen Renaud, Paul Gerber, and Peter Mayer. [Replication Study: A Cross-Country Field Observation Study of Real World PIN Usage at ATMs and in Various Electronic Payment Scenarios. Towards Understanding Why People Do, or Do Not, Shield PIN Entry.](https://www.usenix.org/system/files/conference/soups2018/soups2018-volkamer.pdf). In proceedings of SOUPS 2018. 
+ * **Also read the original from Alex De Luca et al.** 
+ * Alexander De Luca, Marc Langheinrich, and Heinrich Hussmann. [Towards Understanding ATM Security – A Field Study of Real World ATM Use](https://cups.cs.cmu.edu/soups/2010/proceedings/a16_deluca.pdf). In proceedings of SOUPS 2010.
+ 
 ### Presenters:
 * TBD
 
