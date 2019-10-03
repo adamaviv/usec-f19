@@ -181,8 +181,8 @@ Communication Technology Research](https://www.caida.org/publications/papers/201
 * Amber van der Heijden and Luca Allodi. [Cognitive Triaging of Phishing Attacks](https://www.usenix.org/conference/usenixsecurity19/presentation/van-der-heijden). In proceedings of USENIX Sec' 2019.
 * Huahong Tu, Adam Doupé, Ziming Zhao,Gail-Joon Ahn. [Users Really Do Answer Telephone Scams](https://www.usenix.org/system/files/sec19-tu.pdf). In proceedings of USENIX Sec' 2019.
 * Melanie Volkamer, Andreas Gutmann, Karen Renaud, Paul Gerber, and Peter Mayer. [Replication Study: A Cross-Country Field Observation Study of Real World PIN Usage at ATMs and in Various Electronic Payment Scenarios. Towards Understanding Why People Do, or Do Not, Shield PIN Entry.](https://www.usenix.org/system/files/conference/soups2018/soups2018-volkamer.pdf). In proceedings of SOUPS 2018. 
- * **Also read the original from Alex De Luca et al.** 
- * Alexander De Luca, Marc Langheinrich, and Heinrich Hussmann. [Towards Understanding ATM Security – A Field Study of Real World ATM Use](https://cups.cs.cmu.edu/soups/2010/proceedings/a16_deluca.pdf). In proceedings of SOUPS 2010.
+  * **Also read the original from Alex De Luca et al.** 
+  * Alexander De Luca, Marc Langheinrich, and Heinrich Hussmann. [Towards Understanding ATM Security – A Field Study of Real World ATM Use](https://cups.cs.cmu.edu/soups/2010/proceedings/a16_deluca.pdf). In proceedings of SOUPS 2010.
  
 ### Presenters:
 * TBD
