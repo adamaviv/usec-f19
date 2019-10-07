@@ -194,7 +194,7 @@ Communication Technology Research](https://www.caida.org/publications/papers/201
 
 ### Topic: Security Warnings and Permission
 
-### Due: Problem Set 2
+### Due: [Problem Set 2](/psets/ps2) on Sunday 20 Oct. 
 
 ### Required Readings:
 
