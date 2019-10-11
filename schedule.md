@@ -198,12 +198,26 @@ Communication Technology Research](https://www.caida.org/publications/papers/201
  * [Problem Set 2](/psets/ps2.md) on Sunday 20 Oct. 
 
 ### Required Readings:
+* Devdatta Akhawe and Adrienne Porter Felt. [Alice in Warningland: A Large-Scale Field Study of Browser Security Warning Effectiveness.](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf) In Proceedings of USENIX Security 2013.
+
+* Adrienne Porter Felt, Elizabeth Ha, Serge Egelman, Ariel Haney, Erika Chin, and David Wagner. 2012. [Android permissions: user attention, comprehension, and behavior.](https://www.guanotronic.com/~serge/papers/soups12-android.pdf) In Proceedings of the Eighth Symposium on Usable Privacy and Security (SOUPS '12).
+
+* 	Lynn Tsai, Primal Wijesekera, Joel Reardon, Irwin Reyes, Serge Egelman, David A. Wagner, Nathan Good, Jung-Wei Chen:
+[Turtle Guard: Helping Android Users Apply Contextual Privacy Preferences](https://www.usenix.org/conference/soups2017/technical-sessions/presentation/tsai). In proceedings of SOUPS 2017
 
 ### Additional Readings:
+* Joel Reardon,  Álvaro Feal, Primal Wijesekera, Amit Elazari Bar On, Narseo Vallina-Rodriguez, Serge Egelmanc. [50 Ways to Leak Your Data: An Exploration of Apps' Circumvention of the Android Permissions System](https://www.usenix.org/system/files/sec19-reardon.pdf). In proceedings of USENIX Security 2019.
 
+* 	Adrienne Porter Felt, Erika Chin, Steve Hanna, Dawn Song, David A. Wagner:
+[Android permissions demystified](http://digitalassets.lib.berkeley.edu/techreports/ucb/text/EECS-2011-48.pdf). ACM Conference on Computer and Communications Security 2011.
+
+* Primal Wijesekera, Arjun Baokar, Ashkan Hosseini, Serge Egelman, David A. Wagner, Konstantin Beznosov:
+[Android Permissions Remystified: A Field Study on Contextual Integrity](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wijesekera). In proceedings USENIX Security Symposium 2015
+
+* Hazim Almuhimedi, Florian Schaub, Norman Sadeh, Idris Adjerid, Alessandro Acquisti, Joshua Gluck, Lorrie Faith Cranor, and Yuvraj Agarwal. 2015. [Your Location has been Shared 5,398 Times!: A Field Study on Mobile App Privacy Nudging](https://kilthub.cmu.edu/articles/Your_Location_has_been_Shared_5_398_Times_A_Field_Study_on_Mobile_App_Privacy_Nudging_CMU-ISR-14-116_/6626573/files/12124244.pdf). In Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems (CHI '15). 
 
 ### Presenters:
-* TBD
+* Guest Speaker: Irwin Reyes 
 
 
 --------------------------------------------------------
