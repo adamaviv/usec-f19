@@ -118,7 +118,7 @@ Factors in Computing Systems Proceedings (CHI 2019), May 4–9, 2019,
 
 ### Topic: Mobile Authentication
 
-### Due: Project Proposals (Sunday 28 Oct. via Github Classroom)
+### Due: Project Proposals (Sunday, Sept 28th via Github Classroom)
 * https://classroom.github.com/a/SrJTjCzK
 
 ### Required Readings:
