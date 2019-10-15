@@ -195,7 +195,7 @@ Communication Technology Research](https://www.caida.org/publications/papers/201
 ### Topic: Security Warnings and Permission
 
 ### Due: 
- * [Problem Set 2](/psets/ps2.md) on Sunday 20 Oct. 
+ * [Problem Set 2](/psets/ps2.md) due on  Wed. 23 Oct. at 1159pm.
 
 ### Required Readings:
 * Devdatta Akhawe and Adrienne Porter Felt. [Alice in Warningland: A Large-Scale Field Study of Browser Security Warning Effectiveness.](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_akhawe.pdf) In Proceedings of USENIX Security 2013.
@@ -232,14 +232,16 @@ No Class
 
 ### Topic: Web Security 
 
-### Due: Problem set 3  and Ethics Application 
+### Due: 
+
+ * [Problem Set 3](/psets/ps3.md) due on Wed. 6 Nov at 1159pm.
 
 ### Required Readings:
 
 ### Additional Readings:
 
 ### Presenters:
-* TBD
+
 
 --------------------------------------------------------
 
@@ -293,7 +295,7 @@ No Class
 
 ### Topic: Potpourri/Misc: Smart Home, Expert vs. Non-Expert Advice, Digital Advocacy, Media Impacts
 
-### Due: Problem Set 5
+### Due: 
 
 ### Required Readings:
 
