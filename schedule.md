@@ -230,7 +230,7 @@ No Class
 
 ## Meeting 9: Oct. 29
 
-### Topic: Web Security 
+### Topic: Web Security: Indicators and Tracking
 
 ### Due: 
 
@@ -238,8 +238,22 @@ No Class
 
 ### Required Readings:
 
+* Adrienne Porter Felt, Robert W. Reeder, Alex Ainslie, Helen Harris, Max Walker, Christopher Thompson, Mustafa Emre Acer, Elisabeth Morant, Sunny Consolvo. [Rethinking Connection Security Indicators](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-porter-felt.pdf). In Proceedings of SOUPS 2016.
+
+* Steven Englehardt and Arvind Narayanan. [Online Tracking: A 1-Million-Site Measurement and Analysis](http://randomwalker.info/publications/OpenWPM_1_million_site_tracking_measurement.pdf). In Proceedings of CCS 2016
+
+* Katharina Krombholz, Wilfried Mayer, Martin Schmiedecker, Edgar Weippl. ["I Have No Idea What I'm Doing" - On the Usability of Deploying HTTPS](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-krombholz.pdf). In Proceedings of USENIX Security 2017.
+
+
 ### Additional Readings:
 
+* Y. Yao, D. Lo Re, Y. Wang. [Folk Models of Online Behavioral Advertising](https://www.researchgate.net/profile/Yaxing_Yao/publication/313738097_Folk_Models_of_Online_Behavioral_Advertising/links/5a84586faca272c99ac35c9d/Folk-Models-of-Online-Behavioral-Advertising.pdf). Proceedings of the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW 2017). 
+
+*  Matthew Bernhard, Jonathan Sharman, Claudia Z. Acemyan, Philip Kortum, Dan S. Wallach, and J. Alex Halderman. [On the Usability of HTTPS Deployment](https://jhalderm.com/pub/papers/https-chi19.pdf).
+Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
+
+
+* Ruogu Kang, Laura Dabbish, Nathaniel Fruchter, and Sara Kiesler. [“My Data Just Goes Everywhere:” User Mental Models of the Internet and Implications for Privacy and Security](https://www.usenix.org/conference/soups2015/proceedings/presentation/kang). SOUPS 2015.  
 ### Presenters:
 
 
