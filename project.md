@@ -61,10 +61,11 @@ The second presentation will be your final project presentation, which will be 1
 
 ## Grading
 
-* Final Report: 65%
+* Final Report: 50%
 * Final Presentation: 20%
 * Lightening Talk: 5%
-* Proposal: 5%
+* Ethics Document: 10% 
+* Proposal: 10%
 * Status Update: 5%
 
 ## Project Topics
