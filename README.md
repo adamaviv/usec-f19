@@ -10,7 +10,7 @@
    * By Appointment
    
 ## Meeting Schedule
-
+* Duques 360
 * Tuesday: 12:45pm - 3:15pm
 
 ## Course Resources
