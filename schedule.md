@@ -230,7 +230,7 @@ No Class
 
 ## Meeting 9: Oct. 29
 
-### Topic: Web Security: Indicators and Tracking
+### Topic: Web Security: SSL Indicators and Installation
 
 ### Due: 
 
@@ -261,13 +261,28 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 
 ## Meeting 10: Nov. 5
 
-### Topic: Online Notifications and Privacy and GDPR
+### Topic: Breach and Compliance Notifications 
 
 ### Due: Project Status Updates
 
 ### Required Readings:
 
+* [What is GDPR, the EU's new data protection law?](https://gdpr.eu/what-is-gdpr/) **No need to do a report, just read**
+
+* Martin Degeling, Christine Utz, Christopher Lentzsch, Henry Hosseini, Florian Schaub, and Thorsten Holz. [We Value Your Privacy ... Now Take Some Cookies:Measuring the GDPR’s Impact on Web Privacy](https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-2_Degeling_paper.pdf). In NDSS'19. 
+
+* Florian Schaub,Rebecca Balebako,Adam L. Durity,Lorrie Faith Cranor. [A Design Space for Effective Privacy Notices](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-schaub.pdf). SOUPS 2015.
+
+* Jun Ho Huh, Hyoungshick Kim, Swathi S.V.P. Rayala, Rakesh B. Bobba, and Konstantin Beznosov. 2017. [I'm too Busy to Reset my LinkedIn Password: On the Effectiveness of Password Reset Emails](http://library.usc.edu.ph/ACM/CHI%202017/1proc/p387.pdf). In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (CHI '17). 
+
 ### Additional Readings:
+
+* Hana Habib, Yixin Zou†, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub. [An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites](https://www.usenix.org/system/files/soups2019-habib.pdf). SOUPS 2019. 
+
+* Christine Utz, Martin Degeling, Sascha Fahl, Florian Schaub, Thorsten Holz. [(Un)informed Consent: Studying GDPR Consent Notices in the Field](https://arxiv.org/pdf/1909.02638). Proceedings CCS'19. 
+
+
+* Yixin Zou, Shawn Danino, Kaiwen Sun, and Florian Schaub. 2019. [You `Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications](https://dl.acm.org/citation.cfm?id=3300424). In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).
 
 ### Presenters:
 * TBD
