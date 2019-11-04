@@ -294,7 +294,8 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 
 ### Topic: Developer Studies
 
-### Due: Problem Set 4
+### Due: 
+ * [Problem Set 4](psets/ps4.md) Due on Wed., Nov. 20. 
 
 ### Required Readings:
 
