@@ -285,7 +285,7 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 * Yixin Zou, Shawn Danino, Kaiwen Sun, and Florian Schaub. 2019. [You `Might' Be Affected: An Empirical Analysis of Readability and Usability Issues in Data Breach Notifications](https://dl.acm.org/citation.cfm?id=3300424). In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).
 
 ### Presenters:
-* TBD
+
 
 --------------------------------------------------------
 
@@ -297,7 +297,23 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 ### Due: Problem Set 4
 
 ### Required Readings:
-* 
+
+* Felix Fischer, Konstantin Böttinger, Huang Xiao, Christian Stransky, Yasemin Acar, Michael Backes, Sascha Fahl. [Stack Overflow Considered Harmful? The Impact of Copy & Paste on Android Application Security](https://saschafahl.de/static/paper/stackoverflow2017.pdf)
+
+
+* Yasemin Acar, Michael Backes, Sascha Fahl, Doowon Kim, Michelle Mazurek, Christian Stransky. [You Get Where You're Looking For - The Impact of Information Sources on Code Security](https://saschafahl.de/static/paper/infosources2016.pdf)
+
+* Alena Naiakshina, Anastasia Danilova, Christian Tiefenau, Marco Herzog, Sergej Dechand, Matthew Smith. [Why Do Developers Get Password Storage Wrong?: A Qualitative Usability Study](https://arxiv.org/pdf/1708.08759.pdf) . ACM Conference on Computer and Communications Security 2017: 311-328
+
+### Additional Readings:
+
+* Alena Naiakshina, Anastasia Danilova, Eva Gerlitz, Emanuel von Zezschwitz, Matthew Smith: ["If you want, I can store the encrypted password": A Password-Storage Field Study with Freelance Developers](https://net.cs.uni-bonn.de/fileadmin/user_upload/naiakshi/Naiakshina_Password_Study.pdf). CHI 2019
+
+* Peter Leo Gorski, Luigi Lo Iacono, Dominik Wermke, Christian Stransky, Sebastian Möller, Yasemin Acar, Sascha Fahl. [Developers Deserve Security Warnings, Too: On the Effect of Integrated Security Advice on Cryptographic API Misuse](https://saschafahl.de/static/paper/devwarnings2018.pdf). SOUPS'18
+
+* Alena Naiakshina, Anastasia Danilova, Christian Tiefenau, Matthew Smith:
+[Deception Task Design in Developer Password Studies: Exploring a Student Sample](https://www.usenix.org/system/files/conference/soups2018/soups2018-naiakshina.pdf). SOUPS @ USENIX Security Symposium 2018
+
 
 ### Presenters:
 * Lightning Talks
@@ -316,7 +332,7 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 ### Additional Readings:
 
 ### Presenters:
-* Project Lightening Talks
+
 
 --------------------------------------------------------
 
