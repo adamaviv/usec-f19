@@ -277,7 +277,7 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 
 ### Additional Readings:
 
-* Hana Habib, Yixin Zou†, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub. [An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites](https://www.usenix.org/system/files/soups2019-habib.pdf). SOUPS 2019. 
+* Hana Habib, Yixin Zou, Aditi Jannu, Neha Sridhar, Chelse Swoopes, Alessandro Acquisti, Lorrie Faith Cranor, Norman Sadeh, Florian Schaub. [An Empirical Analysis of Data Deletion and Opt-Out Choices on 150 Websites](https://www.usenix.org/system/files/soups2019-habib.pdf). SOUPS 2019. 
 
 * Christine Utz, Martin Degeling, Sascha Fahl, Florian Schaub, Thorsten Holz. [(Un)informed Consent: Studying GDPR Consent Notices in the Field](https://arxiv.org/pdf/1909.02638). Proceedings CCS'19. 
 
