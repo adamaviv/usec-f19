@@ -324,13 +324,28 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 ## Meeting 12: Nov. 19
 
 
-### Topic: Underrepresented and Victimized Groups 
+### Topic: Non-Standard and Unique User Groups
 
-### Due: None
+### Due: Nothing
 
 ### Required Readings:
 
+* Susan E. McGregor, Elizabeth Anne Watkins, Mahdi Nasrullah Al-Ameen, Kelly Caine, Franziska Roesner. [When the Weakest Link is Strong: Secure Collaboration in the Case of the Panama Papers](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-mcgregor.pdf). In Proceedings of USENIX Security 2017.
+
+* Tamy Guberek, Allison McDonald, Sylvia Simioni, Abraham H Mhaidli, Kentaro Toyama, Florian Schaub. [Keeping a Low Profile? Technology, Risk and Privacy among Undocumented Immigrants](https://amcdon.com/papers/lowprofile-chi18.pdf). In Proceedings of CHI 2018.
+
+
+* Diana Freed, Jackeline Palmer, Diana Minchala, Karen Levy, Thomas Ristenpart, and Nicola Dell. ["A Stalker's Paradise": How Intimate Partners Abuse Technology](https://rist.tech.cornell.edu/papers/stalkers-paradise-intimate.pdf). In proceedings of CHI'18.
+
 ### Additional Readings:
+
+
+* Christine Chen, Nicola Dell, and Franziska Roesner. [Computer Security and Privacy in the Interactions Between Victim Service Providers and Human Trafficking Survivors.](https://www.franziroesner.com/pdf/chen-vsp-usenixsec19.pdf). In proceedings of USENIX Security 2019.
+
+
+* Ada (Adam) Lerner, Eric Zeng, and Franziska Roesner. [Confidante: Usable Encrypted Email - A Case Study With Lawyers and Journalists.](https://www.franziroesner.com/pdf/confidante-eurosp17.pdf). 2nd IEEE European Symposium on Security and Privacy (EuroS&P), April 2017.
+
+* Cheul Young Park, Cori Faklaris, Siyan Zhao, Alex Sciuto, Laura Dabbish, and Jason Hong. [Share and Share Alike? An Exploration of Secure Behaviors in Romantic Relationships](https://www.usenix.org/system/files/conference/soups2018/soups2018-park.pdf). In proceedings of SOUPS 2018.
 
 ### Presenters:
 
@@ -339,13 +354,29 @@ Proc. ACM Conference on Human Factors in Computing Systems (CHI ’19), May 2019
 
 ## Meeting 13: Nov. 26
 
-### Topic: Potpourri/Misc: Smart Home, Expert vs. Non-Expert Advice, Digital Advocacy, Media Impacts
+### Topic: Accessibility
 
 ### Due: 
 
 ### Required Readings:
 
+* Tousif Ahmed, Patrick Shaffer, Kay Connelly, David Crandall, Apu Kapadia. [Addressing Physical Safety, Security, and Privacy for People with Visual Impairments](https://www.usenix.org/system/files/conference/soups2016/soups2016-paper-ahmed.pdf). In Proceedings of SOUPS 2016.
+
+* Bryan Dosono, Jordan Hayes, Yang Wang. ["I'm Stuck!": A Contextual Inquiry of People with Visual Impairments in Authentication](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-dosono.pdf). In Proceedings of SOUPS 2015.
+
+* Alisa Frik, Leysan Nurgalieva, Julia Bernd, Joyce S. Lee, Florian Schaub, Serge Egelman. [Privacy and Security Threat Models and Mitigation Strategies of Older Adults](https://www.usenix.org/system/files/soups2019-frik.pdf). In proceedings of SOUPS 2019. 
+
 ### Additional Readings:
+
+* Taslima Akter, Bryan Dosono, Tousif Ahmed, Apu Kapadia, and Bryan Semaan,
+["I am uncomfortable sharing what I can't see": Privacy Concerns of the Visually Impaired with Camera Based Assistive Applications.](https://cs.indiana.edu/~kapadia/papers/akter-sec20.pdf). 
+In the proceedings of USENIX Security 2020.
+
+
+* Hirak Ray, Flynn Wolf, Adam J. Aviv, and Ravi Kuber. “And Then The Castle Just Falls:” Using Drawmetrics to Compare Privacy Concerns of Older and Working Adults. Pre-Print (see hotCRP instance for paper)
+
+
+* Natã M. Barbosa, Jordan Hayes, Yang Wang. [UniPass: Design and Evaluation of a Smart Device-Based Password Manager for Visually Impaired Users](https://natabarbosa.com/ubicomp_unipass.pdf). In Proceedings of UbiComp 2016.
 
 ### Presenters:
 * TBD
