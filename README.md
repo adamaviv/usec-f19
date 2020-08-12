@@ -1,4 +1,4 @@
-# Usable Security and Privacy (CSCI 3907/6907)
+# FALL 2019: Usable Security and Privacy (CSCI 3907/6907)
 
 ## Instructor
 
